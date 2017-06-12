@@ -1,9 +1,0 @@
-C:\Personal\Projects\DeviceMicroservice\WDMService\bin\Debug\netcoreapp1.1\WDMMicroservice.deps.json
-C:\Personal\Projects\DeviceMicroservice\WDMService\bin\Debug\netcoreapp1.1\WDMMicroservice.runtimeconfig.json
-C:\Personal\Projects\DeviceMicroservice\WDMService\bin\Debug\netcoreapp1.1\WDMMicroservice.runtimeconfig.dev.json
-C:\Personal\Projects\DeviceMicroservice\WDMService\bin\Debug\netcoreapp1.1\WDMMicroservice.dll
-C:\Personal\Projects\DeviceMicroservice\WDMService\bin\Debug\netcoreapp1.1\WDMMicroservice.pdb
-C:\Personal\Projects\DeviceMicroservice\WDMService\obj\Debug\netcoreapp1.1\WDMMicroservice.AssemblyInfo.cs
-C:\Personal\Projects\DeviceMicroservice\WDMService\obj\Debug\netcoreapp1.1\WDMMicroservice.dll
-C:\Personal\Projects\DeviceMicroservice\WDMService\obj\Debug\netcoreapp1.1\WDMMicroservice.pdb
-C:\Personal\Projects\DeviceMicroservice\WDMService\obj\Debug\netcoreapp1.1\WDMMicroservice.csprojResolveAssemblyReference.cache

@@ -3,9 +3,6 @@ C:\Personal\Projects\DeviceMicroservice\DeviceMicroservice\bin\Debug\netcoreapp1
 C:\Personal\Projects\DeviceMicroservice\DeviceMicroservice\bin\Debug\netcoreapp1.1\DeviceMicroservice.runtimeconfig.dev.json
 C:\Personal\Projects\DeviceMicroservice\DeviceMicroservice\bin\Debug\netcoreapp1.1\DeviceMicroservice.dll
 C:\Personal\Projects\DeviceMicroservice\DeviceMicroservice\bin\Debug\netcoreapp1.1\DeviceMicroservice.pdb
-C:\Personal\Projects\DeviceMicroservice\DeviceMicroservice\obj\Debug\netcoreapp1.1\DeviceMicroservice.csprojResolveAssemblyReference.cache
 C:\Personal\Projects\DeviceMicroservice\DeviceMicroservice\obj\Debug\netcoreapp1.1\DeviceMicroservice.AssemblyInfo.cs
 C:\Personal\Projects\DeviceMicroservice\DeviceMicroservice\obj\Debug\netcoreapp1.1\DeviceMicroservice.dll
 C:\Personal\Projects\DeviceMicroservice\DeviceMicroservice\obj\Debug\netcoreapp1.1\DeviceMicroservice.pdb
-C:\Personal\Projects\DeviceMicroservice\DeviceMicroservice\bin\Debug\netcoreapp1.1\WDMMicroservice.dll
-C:\Personal\Projects\DeviceMicroservice\DeviceMicroservice\bin\Debug\netcoreapp1.1\WDMMicroservice.pdb

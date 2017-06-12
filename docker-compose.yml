@@ -6,9 +6,3 @@ services:
     build:
       context: ./DeviceMicroservice
       dockerfile: Dockerfile
-
-  wdmservice:
-    image: wdmservice
-    build:
-      context: ./WDMService
-      dockerfile: Dockerfile

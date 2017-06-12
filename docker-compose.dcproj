@@ -3,7 +3,7 @@
   <PropertyGroup Label="Globals">
     <ProjectGuid>d3e76dde-6e7f-433b-8ff4-c208b5195ad6</ProjectGuid>
     <DockerLaunchBrowser>True</DockerLaunchBrowser>
-    <DockerServiceUrl>http://localhost:{ServicePort}/api/values</DockerServiceUrl>
+    <DockerServiceUrl>http://localhost:{ServicePort}/api/machines</DockerServiceUrl>
     <DockerServiceName>devicemicroservice</DockerServiceName>
   </PropertyGroup>
   <ItemGroup>

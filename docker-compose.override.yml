@@ -7,8 +7,3 @@ services:
     ports:
       - "80"
 
-  wdmservice:
-    environment:
-      - ASPNETCORE_ENVIRONMENT=Development
-    ports:
-      - "80"
