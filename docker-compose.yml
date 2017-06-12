@@ -1,0 +1,14 @@
+version: '2'
+
+services:
+  devicemicroservice:
+    image: devicemicroservice
+    build:
+      context: ./DeviceMicroservice
+      dockerfile: Dockerfile
+
+  wdmservice:
+    image: wdmservice
+    build:
+      context: ./WDMService
+      dockerfile: Dockerfile

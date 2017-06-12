@@ -1,0 +1,8 @@
+C:\Personal\Projects\DeviceMicroservice\WDMService\bin\Debug\netcoreapp1.1\WDMService.deps.json
+C:\Personal\Projects\DeviceMicroservice\WDMService\bin\Debug\netcoreapp1.1\WDMService.runtimeconfig.json
+C:\Personal\Projects\DeviceMicroservice\WDMService\bin\Debug\netcoreapp1.1\WDMService.runtimeconfig.dev.json
+C:\Personal\Projects\DeviceMicroservice\WDMService\bin\Debug\netcoreapp1.1\WDMService.dll
+C:\Personal\Projects\DeviceMicroservice\WDMService\bin\Debug\netcoreapp1.1\WDMService.pdb
+C:\Personal\Projects\DeviceMicroservice\WDMService\obj\Debug\netcoreapp1.1\WDMService.AssemblyInfo.cs
+C:\Personal\Projects\DeviceMicroservice\WDMService\obj\Debug\netcoreapp1.1\WDMService.dll
+C:\Personal\Projects\DeviceMicroservice\WDMService\obj\Debug\netcoreapp1.1\WDMService.pdb
